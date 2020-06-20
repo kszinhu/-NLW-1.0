@@ -19,7 +19,7 @@
   </a>
   
   <a href="https://github.com/kszinhu/-NLW-1.0/commits/master">
-    <img alt="GitHub ultima/last commit" src="https://img.shields.io/github/last-commit/kszinhu/-NLW-1.0">
+    <img alt="GitHub ultima/last commit" src="https://img.shields.io/github/last-commit/kszinhu/-NLW-1.0"> 
   </a>
 
    <a href="https://github.com/kszinhu/-NLW-1.0/stargazers">
