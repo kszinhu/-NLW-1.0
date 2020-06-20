@@ -39,7 +39,7 @@
 - **Dia 4:** Até 2 anos em 2 meses [04/06] - ✔
 - **Dia 5:** Milha extra [05/06] - ✔
 
-## 💻 Projeto:
+## 💻 > Projeto:
 
 A Ecoleta é um projeto desenvolvido com base na Semana Internacional do Meio Ambiente. 
 O objetivo é conectar as pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha, etc.
@@ -49,7 +49,7 @@ O objetivo é conectar as pessoas a empresas que coletam resíduos específicos,
 </h1>
 
 
-## ⚠ Como usar:
+## ⚠ > Como usar:
 
 Para clonar e executar este aplicativo, você precisará [Git](https://git-scm.com), [Node.js][nodejs] installed on your computer.
 
