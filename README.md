@@ -61,7 +61,7 @@ Para clonar e executar este aplicativo, você precisará [Git](https://git-scm.c
 > git clone https://github.com/kszinhu/-NLW-1.0.git
 
 # Va para este repository <Go into the repository>:
-> cd -NLW-1.0/
+> cd NLW-1.0/
 
 > npm install express (Vai instalar uma pasta com o nome "node_modules")
 
