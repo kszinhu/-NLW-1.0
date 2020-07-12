@@ -8,7 +8,7 @@
 <p align="center">	
 <a href="https://www.codacy.com/manual/kszinhu/-NLW-1.0?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kszinhu/-NLW-1.0&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/92ca705f05a14758aabafadb758054c5"/></a>
 	
-  <img alt="Repository Size/Tamanho do Repositorio" src="https://img.shields.io/github/repo-size/kszinhu/-NLW-1.0">
+  <img alt="Repository Size/Tamanho do Repositorio" src="https://img.shields.io/github/repo-size/kszinhu/NLW-1.0">
 	
   <a href="https://www.linkedin.com/in/cassiano-rodrigues-28bb8b16a/">
     <img alt="Feito por Cassiano/Made by Cassiano" src="https://img.shields.io/badge/made%20by-Kszinhu-%2304D361">
@@ -18,14 +18,14 @@
     <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
   
-  <a href="https://github.com/kszinhu/-NLW-1.0/commits/master">
-    <img alt="GitHub ultima/last commit" src="https://img.shields.io/github/last-commit/kszinhu/-NLW-1.0"> 
+  <a href="https://github.com/kszinhu/NLW-1.0/commits/master">
+    <img alt="GitHub ultima/last commit" src="https://img.shields.io/github/last-commit/kszinhu/NLW-1.0"> 
   </a>
 
-   <a href="https://github.com/kszinhu/-NLW-1.0/stargazers">
-    <img alt="Estrelas/Stars" src="https://img.shields.io/packagist/stars/kszinhu/-NLW-1.0">
+   <a href="https://github.com/kszinhu/NLW-1.0/stargazers">
+    <img alt="Estrelas/Stars" src="https://img.shields.io/packagist/stars/kszinhu/NLW-1.0">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/kszinhu/-NLW-1.0">
+  <img alt="License" src="https://img.shields.io/github/license/kszinhu/NLW-1.0">
 </p>
 
 ## ⚠ > Next Level Week:
